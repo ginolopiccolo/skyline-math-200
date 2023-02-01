@@ -1,0 +1,16 @@
+Date,Day of the Week,Amount,Description,Category ,Method of Payment
+1/24/23,Tuesday,18.1,cheeseburger,Food,Debit
+1/24/23,Tuesday,135,gas,car,Credit
+1/24/23,Tuesday,15,arm sleeve,sports,Debit
+1/25/23,Wednesday,3.89,redbull,store,Cash
+1/25/23,Wednesday,17.83,chipotle,food,Debit
+1/25/23,Wednesday,9,advil,store,Debit
+1/26/23,Thursday,190,jacket,clothes,Credit
+1/26/23,Thursday,15,socks,clothes,Credit
+1/26/23,Thursday,3.56,chips,food,Cash
+1/27/23,Friday,3.89,redbull,drink,Debit
+1/28/23,Saturday,13.46,cheeseburger,food,Debit
+1/29/23,Sunday,2.35,candy,store,Cash
+1/30/23,Monday,7.89,food,cafe,Debit
+1/31/23,Tuesday,3.54,gatorade,store,Cash
+1/31/23,Tuesday,14.89,food,fast food,Cash
